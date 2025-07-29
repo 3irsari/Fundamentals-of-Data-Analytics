@@ -1,0 +1,58 @@
+================================================================================
+SALES DATA ANALYSIS - COMPREHENSIVE REPORT
+================================================================================
+Generated on: 2025-07-29 12:01:39
+Analysis Period: 2024-07-29 to 2025-07-29
+
+EXECUTIVE SUMMARY
+----------------------------------------
+Total Revenue: $2,274,032.25
+Total Orders: 1,000
+Average Order Value: $2274.03
+Unique Products: 8
+Geographic Coverage: 5 regions
+Sales Channels: 4
+
+KEY BUSINESS INSIGHTS
+----------------------------------------
+ 1.  TOP PRODUCT: Laptop generates 32.5% of total revenue ($739,247.80)
+ 2.  TOP REGION: North America accounts for 35.4% of total revenue
+ 3.  TOP CHANNEL: Online drives 44.9% of total revenue
+ 4.  SATISFACTION: Average score is 3.51/5.0
+ 5.  HIGH SATISFACTION: Customers with 4+ ratings generate 31.8% of revenue
+ 6.  DEMOGRAPHICS: Average customer age is 37.4 years
+ 7.  PREMIUM SEGMENT: 55+ age group has highest average order value
+ 8.  TIMING: Weekend sales account for 26.3% of total revenue
+ 9.  PROFITABILITY: Average profit margin is 57.4%
+10.  MARKETING ROI: $116.76 revenue per $1 marketing spend
+
+STRATEGIC RECOMMENDATIONS
+----------------------------------------
+ 1.  SATISFACTION: Average satisfaction is 3.51. Focus on improving customer experience.
+ 2.  UNDERPERFORMERS: 5 products are below average. Consider product optimization or discontinuation.
+
+DETAILED PERFORMANCE METRICS
+----------------------------------------
+Product Performance:
+  Laptop: $739,247.80
+  Camera: $457,672.43
+  Smartphone: $286,311.77
+  Tablet: $213,048.37
+  Monitor: $201,208.15
+
+Regional Performance:
+  North America: $806,129.42
+  Europe: $479,894.25
+  Asia Pacific: $449,888.41
+  Latin America: $374,594.65
+  Middle East & Africa: $163,525.52
+
+Channel Performance:
+  Online: $1,020,839.15
+  Retail Store: $705,722.31
+  Partner Channel: $301,582.12
+  Direct Sales: $245,888.67
+
+================================================================================
+End of Report
+================================================================================
