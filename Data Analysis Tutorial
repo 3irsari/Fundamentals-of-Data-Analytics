@@ -13,7 +13,7 @@ The prpose of this guide is demonstrating the end-to-end process of conducting a
 
 **Data Source Identification:**
 ```sql
--- Example data selection query (2 years data for successful sales comparable with seasonal, YTD deviaions)
+-- Example data selection query (1 year data for successful sales comparable with seasonal deviaions)
 SELECT 
     s.sale_id,
     s.sale_date,
